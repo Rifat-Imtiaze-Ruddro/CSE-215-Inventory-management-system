@@ -1,0 +1,5 @@
+pokeball,1,catches pokemon,15,200,
+pokemon,23,fjhjeriewjhriewj,1,773,
+pokeball,1,catches pokemon,50,200,
+burn heal,7,Cures burn ,50,700,
+Rare candy,88,Raises pokemon level by 1,99,4800,
